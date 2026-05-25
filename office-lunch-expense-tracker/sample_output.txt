@@ -1,0 +1,19 @@
+office lunch expense tracker
+----------------------------
+Enter lunch cost for Monday: $14.50
+Enter lunch cost for Tuesday: $12
+Enter lunch cost for Wednesday: $18.90
+Enter lunch cost for Thursday: $0
+Enter lunch cost for Friday: $16.20
+Enter your weekly lunch budget: $60
+
+weekly lunch summary
+--------------------
+Total spent: $61.60
+Average per paid office day: $15.40
+Most expensive day: Wednesday ($18.90)
+Cheapest paid day: Tuesday ($12.00)
+Monthly estimate: $246.40
+Yearly estimate: $2956.80
+
+Budget status: Over budget by $1.60
