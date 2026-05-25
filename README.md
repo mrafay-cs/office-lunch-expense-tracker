@@ -1,4 +1,5 @@
 Office Lunch Expense Tracker
+
 Had some free time during a train ride and started wondering how much money I spent last week at work just on lunches.
 
 Then I thought about how people who earn more probably end up spending more on food without even realising 😂
